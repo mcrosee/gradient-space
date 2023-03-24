@@ -8,7 +8,7 @@ https://gradientspace.vercel.app/
 ✨ Featured on Product Hunt!
 https://www.producthunt.com/posts/gradientspace
 
-🖥️ How To Use:
+<b> How To Use: </b>
 1. Generate random colors combination or pick customizable colors
 2. Copy the color codes
 3. Happy designing!
