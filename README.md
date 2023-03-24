@@ -10,7 +10,7 @@ https://www.producthunt.com/posts/gradientspace
 
 <b> How To Use: </b>
 1. Generate random colors combination or pick customizable colors
-2. Copy the color codes
+2. Copy color codes
 3. Happy designing!
 
 
