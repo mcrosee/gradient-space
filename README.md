@@ -9,3 +9,8 @@ https://gradientspace.vercel.app/
 https://www.producthunt.com/posts/gradientspace
 
 ![pika-1679571518533-1x](https://user-images.githubusercontent.com/73470193/227478561-9734c57d-5fe7-4258-9902-dc2abc36d260.png)
+
+How To Use:
+1. Generate random colors combination or pick customizable colors
+2. Copy the color codes
+3. Happy designing!
