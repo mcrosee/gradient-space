@@ -18,8 +18,8 @@ body {
 
 .logo {
   position: fixed;
-  top: 35px;
-  left: 40px;
+  top: 30px;
+  left: 20px;
   color: #2c1338;
   font-size: 1.45rem;
   font-style: italic;
@@ -28,25 +28,17 @@ body {
 }
 
 .producthunt {
-  position: absolute;
+  position: fixed;
   bottom: 18px;
   left: 23px;
 }
 
 .support {
   position: absolute;
-  top: 28px;
-  right: 23px;
+  top: 23px;
+  right: 8px;
 }
 
-.copyright {
-  position: fixed;
-  bottom: 35px;
-  right: 40px;
-  color: #000;
-  font-size: 0.75rem;
-  font-style: normal;
-}
 
 .wrapper {
   width: 450px;
