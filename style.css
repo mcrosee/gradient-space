@@ -18,7 +18,7 @@ body {
 
 .logo {
   position: fixed;
-  top: 30px;
+  top: 10px;
   left: 20px;
   color: #2c1338;
   font-size: 1.45rem;
@@ -28,15 +28,15 @@ body {
 }
 
 .producthunt {
-  position: fixed;
-  bottom: 18px;
-  left: 23px;
+  position: absolute;
+  bottom: 16px;
+  right: 23px;
 }
 
 .support {
   position: absolute;
-  top: 23px;
-  right: 8px;
+  top: 43px;
+  left: 25px;
 }
 
 
