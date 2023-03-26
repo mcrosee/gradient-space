@@ -28,11 +28,9 @@ body {
 }
 
 .support {
-  position: absolute;
-  bottom: 23px;
-  right: 29px;
-  align-items: right;
-  justify-content: right;
+  position: fixed;
+  bottom: 13px;
+  right: 21px;
 }
 
 .wrapper {
