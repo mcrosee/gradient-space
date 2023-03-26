@@ -17,6 +17,7 @@ body {
 }
 
 .logo {
+  width: 100%;
   position: fixed;
   top: 36px;
   left: 29px;
@@ -28,9 +29,10 @@ body {
 }
 
 .support {
+  width: 100%;
   position: fixed;
-  bottom: 13px;
-  right: 21px;
+  bottom: 5px;
+  right: 1px;
 }
 
 .wrapper {
