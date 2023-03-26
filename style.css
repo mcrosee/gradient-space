@@ -29,10 +29,11 @@ body {
 }
 
 .support {
-  width: 100%;
+  width: 23%;
+  height:8%;
   position: fixed;
-  bottom: 5px;
-  right: 1px;
+  bottom: 0px;
+  right: 0px;
 }
 
 .wrapper {
