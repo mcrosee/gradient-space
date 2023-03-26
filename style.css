@@ -18,27 +18,22 @@ body {
 
 .logo {
   position: fixed;
-  top: 10px;
-  left: 20px;
+  top: 36px;
+  left: 29px;
   color: #2c1338;
-  font-size: 1.45rem;
+  font-size: 1.35rem;
   font-style: italic;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 
 }
 
-.producthunt {
-  position: absolute;
-  bottom: 16px;
-  right: 23px;
-}
-
 .support {
   position: absolute;
-  top: 43px;
-  left: 25px;
+  bottom: 23px;
+  right: 29px;
+  align-items: right;
+  justify-content: right;
 }
-
 
 .wrapper {
   width: 450px;
